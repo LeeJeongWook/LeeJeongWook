@@ -1,5 +1,7 @@
-### Hi there 👋
 
+###Embedded System Software Engineer
+
+'꾸준함'을 위해 주석 한줄이어도 1일 1커밋 합니다!
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=HTML5&logoColor=white" />
