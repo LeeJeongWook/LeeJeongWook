@@ -1,8 +1,9 @@
 
-###Embedded System Software Engineer
+**Embedded System Software Engineer**
 
-'꾸준함'을 위해 주석 한줄이어도 1일 1커밋 합니다!
+
 <a href="https://opgc.me/#/users/LeeJeongWook" target="_blank"><img src="https://api.opgc.me/githubs/users/LeeJeongWook/tag/?theme=basic" /></a>
+  
 **LeeJeongWook/LeeJeongWook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
