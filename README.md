@@ -2,7 +2,7 @@
 # **Embedded System Software Engineer**  <br>
 
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJeongWook&layout=compact&hide=jupyter%20notebook,HTML,SCSS)||
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJeongWook&layout=compact&hide=jupyter%20notebook,HTML,SCSS)| |
 |-|-|
 
 
@@ -26,22 +26,44 @@
 
 
 <br></br>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 
+Ranguage
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+Engineering Experience
+<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fujitsu-FF0000?style=flat-square&logo=Fujitsu&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=Rhinoceros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arm-0091BD?style=flat-square&logo=Arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+
+Interested in
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
+Development Tool
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
+
+
+
+
+etc  
+codebeamer, NXP
