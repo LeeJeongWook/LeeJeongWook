@@ -1,7 +1,7 @@
 
 <h3 align="center">Curriculum Vitae</h3>
 
-<div align="center"><a href="https://github.com/LeeJeongWook/Python_for_Machine_Learning" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a></div>
+<div align="center"><a href="https://www.linkedin.com/in/jeongwook-lee-419933205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a></div>
 
 <h3 align="center">Language</h3>
 <div align="center">
