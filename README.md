@@ -57,7 +57,9 @@
 - 머신러닝을 위한 파이썬 : <a href="https://github.com/LeeJeongWook/Python_for_Machine_Learning" target="_blank">Python_for_Machine_Learning</a>
 
 - 알고리즘 문제 해결 전략 1권 : <a href="https://github.com/LeeJeongWook/Algorithmic_Problem_Solving_Strategies_01" target="_blank">Algorithmic_Problem_Solving_Strategies_01</a>  
-- 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리 파이 : <a href="https://github.com/LeeJeongWook/Linux_for_IoT_With_Raspberry_Pi" target="_blank">Linux_for_IoT_With_Raspberry_Pi</a>
+- 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리 파이 : <a href="https://github.com/LeeJeongWook/Linux_for_IoT_With_Raspberry_Pi" target="_blank">Linux_for_IoT_With_Raspberry_Pi</a>  
+- 실제 업무에 활용할 수 있는 데이터수집/분석/자동화 : <a href="https://github.com/LeeJeongWook/Data_Collection-Analysis-Automation" target="_blank">
+Data_Collection-Analysis-Automation</a>  
 
 ## Completion  
 
