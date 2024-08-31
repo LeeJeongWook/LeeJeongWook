@@ -55,7 +55,8 @@
 
 ## Study  
 
-- 알고리즘 문제 해결 전략 1권 : <a href="https://github.com/LeeJeongWook/Algorithmic_Problem_Solving_Strategies_01" target="_blank">Algorithmic_Problem_Solving_Strategies_01</a>  
+- 알고리즘 문제 해결 전략 1권 : <a href="https://github.com/LeeJeongWook/Algorithmic_Problem_Solving_Strategies_01" target="_blank">Algorithmic_Problem_Solving_Strategies_01</a>
+  
 - 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리 파이 : <a href="https://github.com/LeeJeongWook/Linux_for_IoT_With_Raspberry_Pi" target="_blank">Linux_for_IoT_With_Raspberry_Pi</a>  
 
 ## Completion  
